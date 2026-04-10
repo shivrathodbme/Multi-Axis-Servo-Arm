@@ -70,7 +70,8 @@ These values are mapped into corresponding servo positions, allowing intuitive m
 
 ## 📸 Preview
 
-(Add circuit diagram and robot images here)
+<img width="3000" height="3253" alt="circuit_image (1)" src="https://github.com/user-attachments/assets/31888d0f-2cc7-4606-8b18-41aa611868ff" />
+
 
 ---
 
